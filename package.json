@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethers": "^5.5.3",
+    "input": "^1.0.1",
+    "telegram": "^2.4.1"
+  }
+}
